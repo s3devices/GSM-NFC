@@ -1,0 +1,14 @@
+You can access the board by the two way.
+Manually:
+Shield of Vin connected to Board 5V
+Shield GND connected to Board GND
+Shield Pin number 8 connected to Board 3.3V
+For Code :
+void setup()
+{
+pinmode(8,OUTPUT);
+}
+void loop()
+{
+digitalWrite(8,HIGH);
+}
