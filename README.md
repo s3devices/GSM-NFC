@@ -4,13 +4,23 @@ It is GSM/GPRS and NFC Shield. You can use your UDOO, Arduino and Raspberry pi b
 SPECIFICATION :
 GSM/GPRS:
 Working voltage: 5V via Vin pin for UDOO, 5V pin for Arduino and RPi
+
 Compatible: Arduino, UDOO and RPi
+
 Support Interface: UART (HSU)
+
 Communication support: SIMCOM AT commands
+
 Operation temperature: -40C to +80C
+
 NFC:
+
 Working voltage:3.3V to 5V
+
 Support Interface: I2C and UART
+
 Communication: P2P
+
 Contactless Communication: 13.56MHz.
+
 Operation temperature: -30C to +85C
